@@ -1,0 +1,19 @@
+# --- Raw data stays local (1.6 GB; download it from Kaggle) ---
+data/*
+!data/README.txt
+*.csv.gz
+accepted_*.csv
+rejected_*.csv
+*.parquet
+*.pkl
+*.zip
+
+# --- Python / Mac clutter ---
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+.Rhistory
+.RData

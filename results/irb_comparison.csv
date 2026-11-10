@@ -1,0 +1,7 @@
+,value
+average 1-year PD,0.03006137569947025
+EAD-weighted Basel correlation R,0.0814836052278127
+IRB capital K x EAD ($M),40.427765954848006
+RWA ($M),505.3470744356001
+RWA density (RWA / EAD),1.1862179545054077
+Simulation check: 1y 99.9% VaR - EL ($M),40.83300966403671

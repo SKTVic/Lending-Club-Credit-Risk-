@@ -1,0 +1,26 @@
+,odds_ratio,low_95,high_95,p_value
+C(home_ownership)[T.OWN],1.0979,1.0446,1.154,0.0002
+C(home_ownership)[T.RENT],1.2779,1.2381,1.319,0.0
+C(verification_status)[T.Source Verified],1.1287,1.0901,1.1688,0.0
+C(verification_status)[T.Verified],1.0822,1.0437,1.1222,0.0
+C(purpose)[T.credit_card],0.8132,0.699,0.9461,0.0074
+C(purpose)[T.debt_consolidation],0.9945,0.8564,1.1549,0.9423
+C(purpose)[T.home_improvement],1.135,0.9661,1.3334,0.1236
+C(purpose)[T.house],1.3127,1.0267,1.6782,0.03
+C(purpose)[T.major_purchase],1.0938,0.9126,1.311,0.3317
+C(purpose)[T.medical],1.5302,1.2642,1.8522,0.0
+C(purpose)[T.moving],1.5524,1.2593,1.9139,0.0
+C(purpose)[T.other],1.3341,1.1388,1.5629,0.0004
+C(purpose)[T.small_business],2.0541,1.7117,2.4651,0.0
+C(purpose)[T.vacation],1.361,1.0889,1.7011,0.0068
+C(purpose)[T.wedding],0.9526,0.7218,1.2572,0.7315
+fico,0.9884,0.9877,0.989,0.0
+dti,1.0183,1.0165,1.0202,0.0
+log_income,0.6025,0.582,0.6237,0.0
+log_amount,1.315,1.2798,1.3512,0.0
+emp_length,1.0013,0.9971,1.0054,0.5497
+emp_missing,1.3861,1.3006,1.4773,0.0
+revol_util,1.0013,1.0006,1.002,0.0003
+inq_last_6mths,1.1731,1.1581,1.1883,0.0
+delinq_2yrs,1.0203,1.0039,1.0369,0.0152
+history_years,0.9926,0.9905,0.9946,0.0
